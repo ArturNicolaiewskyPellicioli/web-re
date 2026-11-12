@@ -1,0 +1,12 @@
+{
+  "name": "reverso-web-scripts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Deterministic capture, comparison and interaction replay for the reverso-web plugin. These scripts never call a model.",
+  "dependencies": {
+    "pixelmatch": "^8.0.0",
+    "playwright": "^1.65.0",
+    "pngjs": "^7.0.0"
+  }
+}

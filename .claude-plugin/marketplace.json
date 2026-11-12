@@ -1,0 +1,19 @@
+{
+  "name": "reverso-web",
+  "owner": {
+    "name": "Artur Nicolaiewsky Pellicioli"
+  },
+  "metadata": {
+    "description": "Engenharia reversa de websites com fidelidade medida para Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "reverso-web",
+      "source": "./plugins/reverso-web",
+      "description": "Clona websites como código editável e prova a fidelidade: captura determinística, construtores de seção em paralelo, diff pixel a pixel por seção e breakpoint, replay de interações e reparo automático.",
+      "version": "0.1.0",
+      "category": "development",
+      "keywords": ["website-clone", "reverse-engineering", "pixel-perfect", "visual-regression", "playwright"]
+    }
+  ]
+}

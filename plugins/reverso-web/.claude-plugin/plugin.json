@@ -1,0 +1,19 @@
+{
+  "name": "reverso-web",
+  "version": "0.1.0",
+  "description": "Engenharia reversa de websites com fidelidade medida: captura determinística (assets, fontes, tokens, seções), construtores de seção em paralelo, comparação pixel a pixel por seção e breakpoint, replay de interações e ciclo de reparo automático até os portões ficarem verdes.",
+  "author": {
+    "name": "Artur Nicolaiewsky Pellicioli"
+  },
+  "license": "MIT",
+  "keywords": [
+    "website-clone",
+    "reverse-engineering",
+    "pixel-perfect",
+    "visual-regression",
+    "playwright",
+    "design-system"
+  ],
+  "homepage": "https://github.com/ArturNicolaiewskyPellicioli/web-re",
+  "repository": "https://github.com/ArturNicolaiewskyPellicioli/web-re"
+}
